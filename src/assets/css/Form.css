@@ -1,0 +1,59 @@
+.App {
+    display: flex;
+   }
+   
+   .header{
+     text-align: center;
+     color:gray
+   }
+   
+   .title{
+     font-size: x-large;
+     text-align: center;
+     color:gray
+   }
+   
+   .inputContainer{
+     width:"70%";
+     margin-top:4%;
+     text-align: center;
+     /* background-color: #1890ff; */
+   }
+   .dropdownContainer{
+     margin-top:4%;
+     text-align: center;
+   }
+   .inp {
+     border:none;
+     width: 20%;
+     border-bottom: 2px solid grey;
+     padding: 5px 10px;
+     outline: none;
+     color:grey;
+   }
+   
+   .dropdown{
+     border:none;
+     width: 22%;
+     border-bottom: 2px solid grey;
+     padding: 5px 10px;
+     outline: none;
+     color:grey;
+   }
+   
+   .buttonContainer{
+     margin-top:4%;
+     text-align: center;
+   }
+   
+   .submit {
+     width:10%;
+    align-self: center;
+     height:30px;
+     border-radius: 20px;
+     background-color: #494bab;
+     color:azure
+     
+   }
+   
+   

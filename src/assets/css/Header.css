@@ -1,0 +1,12 @@
+.headerContainer{
+    display:flex;
+    flex-direction: row;
+    background-color: grey;
+    color: white;
+}
+.headertitle {
+   margin:1.5%;
+}
+h3:hover {
+    color: black;
+  }

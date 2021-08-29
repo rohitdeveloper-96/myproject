@@ -1,0 +1,14 @@
+.dropdownContainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.title{
+    font-size: x-large;
+    text-align: center;
+    color:gray
+  }
+  .text{
+    font-size: large;
+    margin : 30px
+  }
